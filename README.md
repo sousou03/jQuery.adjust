@@ -3,8 +3,10 @@
 
 ## usage
 
+```javascript
 var $target = $('.target');
 
 $target.adjust();
 $target.adjustW();
 $target.adjustH();
+```
